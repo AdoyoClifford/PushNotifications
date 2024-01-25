@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489334335636",
+    "project_id": "pushnotifications-22a11",
+    "storage_bucket": "pushnotifications-22a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489334335636:android:22c7e40e2ab93e67b9ec81",
+        "android_client_info": {
+          "package_name": "com.adoyo.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOlru3m7IT0NuatEdAZeLBhE_XVYVEos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
