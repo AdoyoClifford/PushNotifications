@@ -32,3 +32,8 @@ a markdown describing the functionalities of this app
         <img src="app/screenshots/three.jpg" width="200" height="400" alt="first image"/>
     </div>
 </div>
+
+## Libraries Used
+- [Jetpack Compose](https://developer.android.com/jetpack/compose) - A modern toolkit for building native Android UI.
+- [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
+- [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
