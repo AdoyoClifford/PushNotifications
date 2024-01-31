@@ -25,7 +25,7 @@ a markdown describing the functionalities of this app
     </div>
     <div>
         <h3>Notification</h3>
-        <img src="app/screenshots/two.jpg.jpg" width="200" height="400" alt="first image"/>
+        <img src="app/screenshots/two.jpg" width="200" height="400" alt="first image"/>
     </div>
     <div>
         <h3>Notification</h3>
